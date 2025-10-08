@@ -17,7 +17,7 @@
 <p align="center">
     <strong>2. 𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻</strong>
     <br>
-    <a href="https:https://goodchild-pairing-site-2q83.onrender.com/" target="_blank">
+    <a href="https://goodchild-pairing-site-2q83.onrender.com" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=green"/>
     </a>
 </p>
