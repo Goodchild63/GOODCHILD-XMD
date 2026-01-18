@@ -1,6 +1,6 @@
 {
   "name":"GOODCHILD-XMD",
-  "description":"goodchild-xmd simple wa bot 💞",
+  "description":"goodchild-xmd simple WAbot 💞",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/idsj9o.jpg",
   "repository":"https://github.com/Goodchild63/GOODCHILD-XMD",
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": " 𝙼𝚛 𝙶𝚘𝚘𝚍𝚌𝚑𝚒𝚕𝚍"
+    "value": "Goodchildwilliamz"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255794910602"
+    "value": "255792375563"
   },
     "WARN_COUNT":
   {
