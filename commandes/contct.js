@@ -1,4 +1,4 @@
-const { zokou } = require("../framework/zokou");
+0const { zokou } = require("../framework/zokou");
 const moment = require("moment-timezone");
 const { getBuffer } = require("../framework/dl/Function");
 const { default: axios } = require('axios');
@@ -248,7 +248,7 @@ zokou({ nomCom: 'me',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*check the developer via https://wa.me/255763755563*`) 
+                 await repondre(`*check the developer via https://wa.me/255792375563*`) 
 
    
 
@@ -275,7 +275,7 @@ zokou({ nomCom: 'problem',
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 1️⃣ || Creator = 𖥘 GOODCHILD WILLIAMZ 𖥘
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬
 2️⃣ || WhattsApp Channel = https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J
 
 3️⃣ || Whatsapp group= https://chat.whatsapp.com/BtSKokkIC6VA2nYv71qdoQ?mode=wwt
