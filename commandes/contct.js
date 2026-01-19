@@ -85,7 +85,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VbBAqgd4inoNwRQ4K0J`) 
+                 await repondre(`https://whatsapp.com/channel/0029VbBAqgd4iwRQ4K0J`) 
 
    
 
@@ -128,7 +128,7 @@ zokou({ nomCom: 'channel1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029Vbqgd4inooNwRQ4K0J`) 
+                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029VboNwRQ4K0J`) 
 
    
 
@@ -189,7 +189,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top a link to join our group https://whatsapp.com/BtSKokkIC6VA2nYv7qdoQ?mode=wwt `) 
+                 await repondre(`𝐩𝐥𝐞𝐚𝐬𝐞 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐨𝐰𝐧𝐞𝐫 𝐠𝐨𝐨𝐝𝐜𝐡𝐢𝐥𝐝𝐰𝐢𝐥𝐥𝐢𝐚𝐦𝐳 🤕🤕🤕🤕 `) 
 
    
 
@@ -276,14 +276,14 @@ zokou({ nomCom: 'problem',
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 1️⃣ || Creator = 𖥘 GOODCHILD WILLIAMZ 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-2️⃣ || WhattsApp Channel = https://whatsapp.com/channel/0029VbBAqgd4inoNwRQ4K0J
+2️⃣ || 🚨🚨🚨🚨
 
 3️⃣ || Whatsapp group= https://chat.whatsapp.com/BtSKokkIC6VA2nYv71qoQ?mode=wwt
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please join and Follow My Support Channel
 Wanna talk to me?👉 https://wa.me/255792375563 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-© *𝙶𝙾𝙾𝙳𝙲𝙷𝙸𝙻𝙳 𝚇𝙼𝙳 *`) 
+© *𝙶𝙾𝙾𝙳𝙲𝙷𝙸𝙻𝙳  WILLIAMZ *`) 
 
    
 
