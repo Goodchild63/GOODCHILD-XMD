@@ -137,7 +137,7 @@ zokou({ nomCom: 'channel1',
 );
 
 
-zokou({ nomCom: 'goodchild',
+zokou({ nomCom: 'william',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '👻', 
