@@ -21,7 +21,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "💥", nomFichier: __
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *Goodchild_xmd.*\n support our channel *by*,  https://whatsapp.com/channel/0029VbBqgd4inoowRQ4K0J
+this is* *Goodchild_xmd.*\n
 
 _________● *𝙶𝙾𝙾𝙳𝙲𝙷𝙸𝙻𝙳* ●____________
 |💥 *𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝚈:* ${data.html_url}
