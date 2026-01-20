@@ -55,8 +55,8 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🥰" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "𝙶𝚘𝚘𝚍𝚌𝚑𝚒𝚕𝚍-𝚇𝚖𝚍", numero: "255784404448" },
-      { nom: "᚛𝙻𝚎𝚘𝚗𝚊𝚛𝚍𝚃𝚎𝚌𝚑᚜", numero: "255757103671" },
+      { nom: "𝙶𝚘𝚘𝚍𝚌𝚑𝚒𝚕𝚍𝚠𝚒𝚕𝚕𝚒𝚊𝚖𝚣", numero: "255792375563" },
+      { nom: "᚛𝙶𝚘𝚘𝚍𝚌𝚑𝚒𝚕𝚍𝚠𝚒𝚕𝚕𝚒𝚊𝚖𝚣᚜", numero: "255762755563" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
@@ -94,7 +94,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING 𝙶𝙾𝙾𝙳𝙲𝙷𝙸𝙻𝙳 𝚇𝙼𝙳, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL 1 LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J] \n\n ☉ CHANNEL 2 LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J] \n\n ☉GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J] \n\n\n𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙶𝙾𝙾𝙳𝙲𝙷𝙸𝙻𝙳-𝚇𝙼𝙳") 
+  repondre("THANK YOU FOR CHOOSING 𝙶𝙾𝙾𝙳𝙲𝙷𝙸𝙻𝙳 𝚇𝙼𝙳, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL 1 LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠https://whatsapp.com/channel/0029VbAhAOJISTkRkIw3Sy1D] \n\n ☉ CHANNEL 2 LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VbAhAOJISTkRkIw3Sy1D] \n\n ☉GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/BtSKokkIC6VA2nYv71qdoQ] \n\n\n𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙶𝙾𝙾𝙳𝙲𝙷𝙸𝙻𝙳-𝚇𝙼𝙳") 
   await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING 𝙶𝙾𝙾𝙳𝙲𝙷𝙸𝙻𝙳-𝚇𝙼𝙳,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
-})
+})Com
