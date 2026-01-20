@@ -85,7 +85,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VbBAqgd4iwRQ4K0J`) 
+                 await repondre(`https://whatsapp.com/channel/0029VbAhAOJISTkRkIw3Sy1D`) 
 
    
 
@@ -128,7 +128,7 @@ zokou({ nomCom: 'channel1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029VboNwRQ4K0J`) 
+                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029VbAhAOJISTkRkIw3Sy1D`) 
 
    
 
@@ -276,7 +276,7 @@ zokou({ nomCom: 'problem',
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 1️⃣ || Creator = 𖥘 GOODCHILD WILLIAMZ 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-2️⃣ || 🚨🚨🚨🚨
+2️⃣ || 🚨https://whatsapp.com/channel/0029VbAhAOJISTkRkIw3Sy1D
 
 3️⃣ || Whatsapp group= https://chat.whatsapp.com/BtSKokkIC6VA2nYv71qoQ?mode=wwt
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
