@@ -10,7 +10,7 @@ zokou({ nomCom: "goodchild", reaction: "📡", categorie: "ai" }, async (dest, z
 
   try {
     if (!arg || arg.length === 0) {
-      return repondre('Hello 🖐️.\n am goodchild AI assistant am here to help you \n\n > goodchildwilliamz');
+      return repondre('Hello 🖐️.\n am goodchild AI assistant am here to help you \n\n goodchildwilliamz🤕');
     }
 
     // Combine arguments into a single string
